@@ -1,2 +1,4 @@
 # College-Work
-ADA/OS/COA
+ADA / OS / CSO 
+Complier Design Lab Program's 
+AI Lab Program's 
